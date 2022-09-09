@@ -226,7 +226,7 @@ header .icons #menu-bars{
 }
 
 .swiper-pagination {
-    bottom: 50px !important;
+    bottom: 3rem !important;
 }
 
 .dishes .box-container{
@@ -734,6 +734,11 @@ header .icons #menu-bars{
     .order form .inputBox .input{
         width:100%;
     }
+
+    .swiper-pagination {
+        bottom: 1rem !important;
+    }
+    
 
 }
 
